@@ -1,0 +1,295 @@
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\QLKARAOKE.dll.config
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\QLKARAOKE.dll
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\QLKARAOKE.pdb
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\csc.exe
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\csc.exe.config
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\csc.rsp
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\csi.exe
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\csi.exe.config
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\csi.rsp
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\System.AppContext.dll
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Console.dll
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\System.IO.Compression.dll
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Net.Http.dll
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\System.ValueTuple.dll
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\vbc.exe
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\vbc.exe.config
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\vbc.rsp
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\VBCSCompiler.exe
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\obj\Debug\QLKARAOKE.csprojAssemblyReference.cache
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\obj\Debug\QLKARAOKE.csproj.CoreCompileInputs.cache
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\obj\Debug\QLKARAOKE.csproj.CopyComplete
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\obj\Debug\QLKARAOKE.dll
+C:\Users\HO XUAN HUNG\Documents\Visual Studio 2019\codeNet\QLKARAOKE\QLKARAOKE\obj\Debug\QLKARAOKE.pdb
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\QLKARAOKE.dll.config
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\QLKARAOKE.dll
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\QLKARAOKE.pdb
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\csc.exe
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\csc.exe.config
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\csc.rsp
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\csi.exe
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\csi.exe.config
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\csi.rsp
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\System.AppContext.dll
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Console.dll
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\System.IO.Compression.dll
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Net.Http.dll
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Net.Sockets.dll
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\System.ValueTuple.dll
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\vbc.exe
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\vbc.exe.config
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\vbc.rsp
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\VBCSCompiler.exe
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\obj\Debug\QLKARAOKE.csprojAssemblyReference.cache
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\obj\Debug\QLKARAOKE.csproj.CoreCompileInputs.cache
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\obj\Debug\QLKARAOKE.csproj.CopyComplete
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\obj\Debug\QLKARAOKE.dll
+C:\Users\tuong\Downloads\QLKARAOKE\QLKARAOKE\QLKARAOKE\obj\Debug\QLKARAOKE.pdb
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\QLKARAOKE.dll.config
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\QLKARAOKE.dll
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\QLKARAOKE.pdb
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\csc.exe
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\csc.exe.config
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\csc.rsp
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\csi.exe
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\csi.exe.config
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\csi.rsp
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\System.AppContext.dll
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Console.dll
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\System.IO.Compression.dll
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Net.Http.dll
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\System.ValueTuple.dll
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\vbc.exe
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\vbc.exe.config
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\vbc.rsp
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\VBCSCompiler.exe
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\obj\Debug\QLKARAOKE.csprojAssemblyReference.cache
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\obj\Debug\QLKARAOKE.csproj.CoreCompileInputs.cache
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\obj\Debug\QLKARAOKE.csproj.CopyComplete
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\obj\Debug\QLKARAOKE.dll
+C:\Users\HO XUAN HUNG\Desktop\QLKARAOKE\QLKARAOKE\obj\Debug\QLKARAOKE.pdb
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\QLKARAOKE.dll.config
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\QLKARAOKE.dll
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\QLKARAOKE.pdb
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\csc.exe
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\csc.exe.config
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\csc.rsp
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\csi.exe
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\csi.exe.config
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\csi.rsp
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.AppContext.dll
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Console.dll
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.IO.Compression.dll
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Net.Http.dll
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.ValueTuple.dll
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\vbc.exe
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\vbc.exe.config
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\vbc.rsp
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\VBCSCompiler.exe
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\obj\Debug\QLKARAOKE.csprojAssemblyReference.cache
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\obj\Debug\QLKARAOKE.csproj.CoreCompileInputs.cache
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\obj\Debug\QLKARAOKE.csproj.CopyComplete
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\obj\Debug\QLKARAOKE.dll
+C:\Users\HO XUAN HUNG\Desktop\.NET\QLKARAOKE\QLKARAOKE\obj\Debug\QLKARAOKE.pdb
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\QLKARAOKE.dll.config
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\QLKARAOKE.dll
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\QLKARAOKE.pdb
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\csc.exe
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\csc.exe.config
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\csc.rsp
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\csi.exe
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\csi.exe.config
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\csi.rsp
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.AppContext.dll
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Console.dll
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.IO.Compression.dll
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Net.Http.dll
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.ValueTuple.dll
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\vbc.exe
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\vbc.exe.config
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\vbc.rsp
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\VBCSCompiler.exe
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\obj\Debug\QLKARAOKE.csprojAssemblyReference.cache
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\obj\Debug\QLKARAOKE.csproj.CoreCompileInputs.cache
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\obj\Debug\QLKARAOKE.csproj.CopyComplete
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\obj\Debug\QLKARAOKE.dll
+C:\Users\HO XUAN HUNG\Desktop\NET\bài cuối kì NET\QLKARAOKE\QLKARAOKE\obj\Debug\QLKARAOKE.pdb

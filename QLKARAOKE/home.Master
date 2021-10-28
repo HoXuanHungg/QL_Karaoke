@@ -1,0 +1,37 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="home.master.cs" Inherits="QLKARAOKE.home" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link rel="stylesheet" href="/css/main.css" />
+
+</head>
+<body>
+
+    <div>
+        <h2>Quản Lý Quán Karaoke</h2>  
+            <ul>
+                
+                <li class="link"><a href="home.aspx">Trang chính</a></li>
+                <li class="link"><a href="QLDichVu.aspx">Quản lý dịch vụ</a></li>
+                 <li class="link"><a href="QLKhachhang.aspx">Quản lý khách hàng</a></li>
+                 <li class="link"><a href="QLNhanVien.aspx">Quản lý nhân viên</a></li>
+                 <li class="link"><a href="QLPhong.aspx">Quản lý phòng</a></li>
+                <li class="link"><a href="QLHoaDon.aspx">Quản lý hóa đơn</a></li>
+                <li class="link"><a href="QLTaiKhoan.aspx">Quản lý tài khoản</a></li>
+                
+             </ul>
+    </div>
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

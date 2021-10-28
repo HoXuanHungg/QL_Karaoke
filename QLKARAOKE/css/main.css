@@ -1,0 +1,102 @@
+﻿
+.link {
+    color: #101010;
+    text-transform:inherit;
+    margin-bottom:2px;
+    font-family: Arial;
+}
+
+.table {
+ 
+    font-family: Arial;
+    width: auto;
+    height: auto;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+
+    .table th, .table td {
+        width: auto;
+        height: auto;
+        padding: 8px;
+        line-height: 20px;
+        text-align: left;
+        vertical-align: top;
+        border-top: 1px solid #dddddd;
+    }
+
+    .table th {
+        width: auto;
+        height: auto;
+        font-weight: bold;
+    }
+
+    .table thead th {
+        vertical-align: bottom;
+    }
+body {
+ 
+    border: 1px solid green;
+    padding: 20px;
+    margin: 0 auto;
+    
+}
+.button {
+    background-color: #009999;
+    border: none;
+    color: white;
+    padding: 13px 29px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    font-family: Arial;
+    font-weight: bold;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 30px;
+}
+.tieude {
+    margin:0 auto;
+    text-align:center;
+    font-family: Arial;
+    font-size: 30px;
+}
+.textbox {
+    font-family: Arial;
+    width: 200px;
+}
+.mydatagrid /** main grid */ {
+    margin: 0 auto;
+    font-family: Arial;
+    width: 80%;
+    border: solid 2px #000000;
+}
+
+    .mydatagrid td /** text element **/ {
+        padding: 2px;
+        border: solid 1px #000000;
+        color: #000000;
+        text-align: left;
+        font-size: 18px;
+    }
+
+    .mydatagrid th /**header details */ {
+        padding: 4px 2px;
+        color: #FFFFFF;
+        background: #509683;
+        border: solid 1px #000000;
+        font-size: 20px;
+    }
+
+    .mydatagrid .alt {
+        background: #fcfcfc url(grd_alt.png) repeat-x top;
+    }
+
+    .mydatagrid tr:nth-child(even) {
+        background-color: #ffffff;
+    }
+
+    .mydatagrid tr:nth-child(odd) {
+        background-color: #cccccc;
+    }
